@@ -1,11 +1,1 @@
-My Quiz Game
-
-Output Link:
-https://agsuvidha.github.io/My-Quiz-Game/
-
-
-
-Database Needed
-contestantCount   0
-
-gameState   0
+I am not able to think what to say so you can just waste your time reading this.
